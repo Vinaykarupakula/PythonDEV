@@ -1,6 +1,6 @@
 def prime(num):
     if num==1:
-        print(1, "is not a  prime number")
+        print(1, "is a prime nuber")
     elif num==2:
         print(num, "is a even prime number")
     else:
